@@ -11,7 +11,7 @@ int main()
     printf("enter the second number");
     scanf("%d",&b);
 
-    printf("sum of two numbers = ",&sum);
+    printf("shinil joshua");
     return EXIT_SUCCESS;
 
 }
